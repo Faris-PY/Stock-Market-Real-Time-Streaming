@@ -23,5 +23,7 @@ Azure Data Engineering
 
 ## Functionalities covered as part of This project
 1. Stream processing, Role Based Access
-2. Event Hub - 
-3. Data Factory - Schedule Event trigger, Linked service.
+2. Event Hub - Capture Feature, Connectioing external python application with Event Hub
+3. Stream Analytics - Multiple output in query, Streaming & Troubleshooting resouse log(diagnostics log), integration of Power BI
+4. Data Factory - Schedule Event trigger, Linked service.
+5. Datalake Gen2 - Lifecycle management.
