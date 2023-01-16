@@ -1,6 +1,8 @@
 # Stock-Market-Real-Time-Streaming
 Azure Data Engineering
 
+![Architecture diagram](https://user-images.githubusercontent.com/107489749/212629280-edf697ce-8d8f-477a-a146-a3c6af01cd9d.png)
+
 
 ## Resources used 
 1. Azure Event Hubs
