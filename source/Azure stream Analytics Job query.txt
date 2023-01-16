@@ -1,0 +1,13 @@
+SELECT
+    stock, market, exchangeTimezone, currency, marketState, regularMarketPrice, regularMarketTime, marketCap, averageAnalystRating, AnalystBuySell, MarketCapInTrillion$$
+INTO
+    [synpseStockDataOUT]
+FROM
+    [stockdataIN]
+
+SELECT
+    stock, market, exchangeTimezone, currency, marketState, regularMarketPrice, regularMarketTime, marketCap, averageAnalystRating, AnalystBuySell, MarketCapInTrillion$$
+INTO
+    [powerbiOUT]
+FROM
+    [stockdataIN]
